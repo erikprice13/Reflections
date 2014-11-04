@@ -15,3 +15,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 You are able to use the staging area to commit once per logical change by adding only what 
 you need to the stagin area and then commiting. Do this multiple times for multiple changes.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+How would branches help?
+
+Branches would help in situations where you did not want to modify the working version of the 
+file yet, but do what to make certain changes. For example if you have a game running on a 
+website and do not want to make an official update, you can create a branch to make your 
+change, and if you like it, you can then merge it with the official game to update it.
