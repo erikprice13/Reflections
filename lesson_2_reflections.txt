@@ -10,3 +10,8 @@ The staging area in git is a pre-commit area that is where you can set up what y
 commit from the working directory into the more permenent repository. This allows you to make 
 changes before you commit if you decide you do not wish to commit everything in the working 
 directory at once.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You are able to use the staging area to commit once per logical change by adding only what 
+you need to the stagin area and then commiting. Do this multiple times for multiple changes.
