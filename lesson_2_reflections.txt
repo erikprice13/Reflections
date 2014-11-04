@@ -23,3 +23,8 @@ Branches would help in situations where you did not want to modify the working v
 file yet, but do what to make certain changes. For example if you have a game running on a 
 website and do not want to make an official update, you can create a branch to make your 
 change, and if you like it, you can then merge it with the official game to update it.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help visualize the branch structure by making the branches and their parents 
+into easily visible visuals, making everyones work accesable.
