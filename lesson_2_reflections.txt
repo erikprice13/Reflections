@@ -34,3 +34,7 @@ the way we do?
 
 Merging two branches creates new code that is the sum of the changes made by both branches, 
 including deletions and additions, from the most recent parent commit shared by both branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is MUCH faster and is pretty accurate. Sometimes though automatic merging can make mistakes such as adding in two ways of cleaning up the same function, each by two different programmers.
