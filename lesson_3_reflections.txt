@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+Keeping all your work local is dangerous if not backed up, being vulnerable to crashes. Also having a remote repository
+can make sure that there is a completely up to date version where anyone working on the project can access it.
