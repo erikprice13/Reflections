@@ -4,6 +4,15 @@ Keeping all your work local is dangerous if not backed up, being vulnerable to c
 having a remote repository can make sure that there is a completely up to date version where 
 anyone working on the project can access it.
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically stay 
+up-to-date with your remote repository?
 
-You may want to keep a note file that is just for github, or to not have a certain change made by another contributor show up in your own repository yet.
+You may want to keep a note file that is just for github, or to not have a certain change 
+made by another contributor show up in your own repository yet.
+
+Describe the differences between forks, clones, and branches. When would you use one instead 
+of another?
+
+Forks you use for git to git cloning. Cloning you use to copy a repository and all its commit 
+history. Branching you use to create an offshoot from the master branch to make changes not 
+in the master copy itself.
