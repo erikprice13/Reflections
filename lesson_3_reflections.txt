@@ -1,4 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-Keeping all your work local is dangerous if not backed up, being vulnerable to crashes. Also having a remote repository
-can make sure that there is a completely up to date version where anyone working on the project can access it.
+Keeping all your work local is dangerous if not backed up, being vulnerable to crashes. Also 
+having a remote repository can make sure that there is a completely up to date version where 
+anyone working on the project can access it.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+You may want to keep a note file that is just for github, or to not have a certain change made by another contributor show up in your own repository yet.
