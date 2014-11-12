@@ -16,3 +16,8 @@ of another?
 Forks you use for git to git cloning. Cloning you use to copy a repository and all its commit 
 history. Branching you use to create an offshoot from the master branch to make changes not 
 in the master copy itself.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is that you will be able to work with or review the current state of your remote 
+even when offline or do not want to upload your cahnges at this time.
