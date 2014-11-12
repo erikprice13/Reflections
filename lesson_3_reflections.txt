@@ -21,3 +21,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 The benefit is that you will be able to work with or review the current state of your remote 
 even when offline or do not want to upload your cahnges at this time.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would 
+be harder?
+
+it would be more direct such as e-mail, phone or in person. Opinion and subjective parts of 
+coding would most likely be easier to understand, but technical and code changes would be
+much harder to communicate.
