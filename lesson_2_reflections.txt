@@ -3,6 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 When you initialize a repository you create a place to store and track your files. You would 
 need this to be able to have good version-control using git.
 
+
 How is the staging area different from the working directory and the repository? What value 
 do you think it offers?
 
@@ -11,10 +12,12 @@ commit from the working directory into the more permenent repository. This allow
 changes before you commit if you decide you do not wish to commit everything in the working 
 directory at once.
 
+
 How can you use the staging area to make sure you have one commit per logical change?
 
 You are able to use the staging area to commit once per logical change by adding only what 
 you need to the stagin area and then commiting. Do this multiple times for multiple changes.
+
 
 What are some situations when branches would be helpful in keeping your history organized? 
 How would branches help?
@@ -24,10 +27,12 @@ file yet, but do what to make certain changes. For example if you have a game ru
 website and do not want to make an official update, you can create a branch to make your 
 change, and if you like it, you can then merge it with the official game to update it.
 
+
 How do the diagrams help you visualize the branch structure?
 
 The diagrams help visualize the branch structure by making the branches and their parents 
 into easily visible visuals, making everyones work accesable.
+
 
 What is the result of merging two branches together? Why do we represent it in the diagram 
 the way we do?
@@ -35,6 +40,9 @@ the way we do?
 Merging two branches creates new code that is the sum of the changes made by both branches, 
 including deletions and additions, from the most recent parent commit shared by both branches.
 
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
-Automatic merging is MUCH faster and is pretty accurate. Sometimes though automatic merging can make mistakes such as adding in two ways of cleaning up the same function, each by two different programmers.
+Automatic merging is MUCH faster and is pretty accurate. Sometimes though automatic merging 
+can make mistakes such as adding in two ways of cleaning up the same function, each by two 
+different programmers.
