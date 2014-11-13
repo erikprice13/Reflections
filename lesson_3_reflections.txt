@@ -40,3 +40,16 @@ benefits does each approach have?
 When you want others to review your changes before you update master or you want to work on a 
 different feature or make a new version of the program such as a new language. An advantage 
 to directly updating master would be the time saved from reviewing pull requests and such.
+
+
+
+
+
+
+
+
+
+
+
+
+:) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :) :)
